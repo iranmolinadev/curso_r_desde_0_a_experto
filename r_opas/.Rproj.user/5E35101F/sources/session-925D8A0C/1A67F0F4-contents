@@ -1,0 +1,8 @@
+# colocaremos nombre y correo de cuenta de github. SOLO borrar los # y respetar los demas espacios
+# [user]
+#   name = N O M B R E
+#   email = correodeGithub
+
+[user]
+	name = iran_mx2
+	email = iranmolinadev@gmail.com

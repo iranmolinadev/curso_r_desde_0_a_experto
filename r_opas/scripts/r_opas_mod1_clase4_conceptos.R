@@ -5,7 +5,7 @@
 # CLASE 4 - CONCEPTOS FUNDAMENTALES PARA COMENZAR A PROGRAMAR EN R
 
 # 1. Para seguir la clase ####
-2 + 2
+2+2
 
 # 2. Operadores ####
 
@@ -159,18 +159,7 @@ remotes::install_github('ipeaGIT/geobr', subdir = "r-package")
 
 # Cargar paquetes
 # Recuerde cargar los paquetes
-
 install_github('ipeaGIT/geobr', subdir = "r-package")
-
-# instalar paquetes de github IranMx2
-install.packages("remotes")
-library("remotes")
-install.packages("devtools")
-library(devtools)
-install.packages("githubinstall")
-library(githubinstall)
-
-install_github("qinwf/awesome-R")
 
 # Instalar y cargar con pacman
 pacman::p_load(rio, ggspatial)

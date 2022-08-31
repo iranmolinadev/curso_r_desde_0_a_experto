@@ -16,8 +16,8 @@ pacman::p_load(pacman,    # Instalar y cargar paquetes
 getwd() 
 
 # Cambiar el directorio 
-setwd("C:\\Users\\IRAN_MX2\\Desktop\\cursos\\curso_r_desde_0_a_experto\\r_opas") 
-setwd("C:/Users/IRAN_MX2/Desktop/cursos/curso_r_desde_0_a_experto/r_opas")
+setwd("C:\\Users\\laisr\\OneDrive\\Documentos\\OPAS\\CursoR\\r_opas") 
+setwd("C:/Users/laisr/OneDrive/Documentos/OPAS/CursoR/r_opas")
 
 # 6. Piping (%>%) ####
  
